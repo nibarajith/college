@@ -44,6 +44,8 @@ public class MatrixMul{
                 }
                 System.out.println();
             }
-        }   
+        }
+        else
+            System.out.println("Enter correct dimensions !!");
     }
 }
